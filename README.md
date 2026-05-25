@@ -16,4 +16,4 @@ A modern animated frontend experience created for the SixJuly Frontend Developer
 - Modern UI/UX
 
 ## Live Demo
-https://assessment-sixjully.onrender.com
+https://assessment-sixjulyy.onrender.com
